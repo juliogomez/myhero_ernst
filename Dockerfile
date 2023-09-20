@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.11
 MAINTAINER Julio Gomez <jgomez2@cisco.com>
 
 # Install python, pip and basic utilities
